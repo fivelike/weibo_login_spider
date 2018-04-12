@@ -1,0 +1,5 @@
+/m_weibo_spider/__pycache__/
+/m_weibo_spider/output/
+/m_weibo_spider/*.xlsx
+
+/pc_weibo_spider/__pycache__/
